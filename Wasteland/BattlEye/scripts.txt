@@ -1,0 +1,15 @@
+//new2
+// A3Wasteland - scripts.txt BattlEye filters by AgentRev
+7 _typeofHookMonky
+7 _allocMemory !="_allocMemory2"
+7 _d3d9multipliervariable
+7 _runASM
+7 _addGFX_hookD3D9eventhandler
+7 _BEhookBYPASSBOB
+7 "!(isNil \"FN_infiSTAR_C\")"
+7 "Ammo Activated"
+7 "     +             " 
+1 "addWeaponGlobal"
+5 "addWeaponTurret"
+5 "BIS_fnc_AAN" !"\"BIS_fnc_AAN\""// AAN news banner crap
+5 "onMapSingleClick" !"\"onmapsingleclick\"" // used by many teleport hacks

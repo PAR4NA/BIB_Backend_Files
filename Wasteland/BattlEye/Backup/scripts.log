@@ -1,0 +1,14 @@
+11.07.2016 17:40:51: Monkey (104.174.89.77:2324) f7fcd6c2863c859f07e6c73927a829ad - #2 "nc_scriptNameParent = if (isNil '_fnc_scriptName') then {'BIS_fnc_AAN'} else {_fnc_scriptName};
+	private _fnc_scriptName = 'BIS_"
+14.07.2016 14:14:06: Monkey (104.174.89.77:2324) f7fcd6c2863c859f07e6c73927a829ad - #2 "nc_scriptNameParent = if (isNil '_fnc_scriptName') then {'BIS_fnc_AAN'} else {_fnc_scriptName};
+	private _fnc_scriptName = 'BIS_"
+14.07.2016 14:42:30: Monkey (104.174.89.77:2324) f7fcd6c2863c859f07e6c73927a829ad - #2 "nc_scriptNameParent = if (isNil '_fnc_scriptName') then {'BIS_fnc_AAN'} else {_fnc_scriptName};
+	private _fnc_scriptName = 'BIS_"
+14.07.2016 19:56:28: Monkey (104.174.89.77:2324) f7fcd6c2863c859f07e6c73927a829ad - #2 "nc_scriptNameParent = if (isNil '_fnc_scriptName') then {'BIS_fnc_AAN'} else {_fnc_scriptName};
+	private _fnc_scriptName = 'BIS_"
+23.07.2016 12:09:33: Monkey (172.112.102.140:2324) f7fcd6c2863c859f07e6c73927a829ad - #2 "nc_scriptNameParent = if (isNil '_fnc_scriptName') then {'BIS_fnc_AAN'} else {_fnc_scriptName};
+	private _fnc_scriptName = 'BIS_"
+22.10.2016 15:45:14: Monkey (172.112.102.140:2324) f7fcd6c2863c859f07e6c73927a829ad - #0 "	_wset addPrimaryWeaponItem 'acc_pointer_IR';
+				_wset addWeaponGlobal 'ItemCompass';
+				_wset addWeaponGlobal 'ItemMap';
+				"

@@ -1,0 +1,4 @@
+// A3Wasteland - deleteVehicle.txt BattlEye filters by AgentRev
+
+1 "" !Land_Razorwire_F !Land_Money_F !Land_Suitcase_F !Land_CanisterFuel_F !Land_Can_V3_F !Land_BottlePlastic_V1_F !Land_TacticalBacon_F !Box_IND_Grenades_F !B_supplyCrate_F
+//5="Logic" // not needed anymore, antihack is now loaded via remoteExec instead of createUnit
