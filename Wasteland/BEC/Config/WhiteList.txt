@@ -1,6 +1,10 @@
-abcdef0123456789abcdef0123456789 This is my brother.
-bbcdef0123456789abcdef0123456789 Guid of Nils Pils.
-cbcdef0123456789abcdef0123456789 Friend of Nils Pils
-dbcdef0123456789abcdef0123456789
+//Staff
 
+b9d0763ff4cf2a67d976c79ef5efb939 //Witchdoctor
+99517e46bc2edf5ced3e9cdda077b0e8 //Alori
+b0bfad7e52174a1e961081f740b3fc69 //Dreaded Wraith
+f7fcd6c2863c859f07e6c73927a829ad // Monkey
+8e937910c5d7c80025c7423222747f5c // Masher
+84222195ac01c4121cd66b40091b73e6 // Wilks
 
+//Backers
