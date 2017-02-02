@@ -350,4 +350,11 @@
 		<loop>-1</loop>
 		<cmd>say -1 Want to keep up with what we're doing follow us on twitter @BIBGamingDev </cmd>
 </job>
+<job id='49'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>007000</start>
+		<runtime>001500</runtime>
+		<loop>-1</loop>
+		<cmd>say -1 We will soon be changing the ATM limit to $10mil, if you have more than that in your bank, we suggest you move it to a stash</cmd>
+</job>
 </Scheduler>
